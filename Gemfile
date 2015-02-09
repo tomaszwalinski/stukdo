@@ -43,3 +43,5 @@ gem 'twitter-bootstrap-rails', :git => 'http://github.com/seyhunak/twitter-boots
 gem 'font-awesome-rails'
 
 gem 'simple_form'
+
+gem 'devise'
